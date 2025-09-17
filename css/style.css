@@ -1,4 +1,4 @@
-<style>
+
     body {
       font-family: "Roboto", sans-serif;
       margin: 0;
@@ -107,19 +107,8 @@
   object-fit: cover;
   }
 
-  @media (max-width: 600px) {
-  .intro {
-    flex-direction: column; 
-    text-align: center;
-  }
+  
 
-  .intro img {
-    width: 100%; 
-    max-width: 250px;
-  }
+  
 
-  .project {
-    width: 90%; 
-  }
-}
-  </style>
+  
